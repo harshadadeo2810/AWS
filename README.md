@@ -1,5 +1,3 @@
-# AWS 
-
 What is AWS (Amazon Web Services)?
 AWS (Amazon Web Services) is a cloud computing platform provided by Amazon, offering a wide range of cloud services like computing power, storage, databases, networking, AI/ML, security, and analytics. AWS allows businesses and developers to build, deploy, and scale applications efficiently without managing physical infrastructure.
 
@@ -99,7 +97,13 @@ SaaS provides ready-to-use software applications over the internet, eliminating 
  Benefits:
  No need to install or maintain software
  Accessible from anywhere via the internet
- Automatic updates and security patches
+ Automatic updates and security patches  
+
+ 
+•	IaaS: Hardware and virtualization layers are provided, with users managing the OS and applications.
+•	PaaS: Includes everything in IaaS, along with middleware and runtime. Users focus only on data and applications.
+•	SaaS: All layers, from hardware to applications, are fully managed by the provider.
+
 
 4. Desktop as a Service (DaaS)
  Definition:
